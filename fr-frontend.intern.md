@@ -26,8 +26,6 @@ Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo
 
 ### Compensations
 
-* Salaire misérable
-* L'eau du robinet en illimitée!
 * Passer du temps pour apprendre tout ce dont vous avez besoin d'apprendre
 * Vous êtes assuré d'apprendre beaucoup
 
