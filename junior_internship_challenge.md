@@ -5,7 +5,7 @@
 3. Follow the RubyOnRails getting started: http://guides.rubyonrails.org/getting_started.html
   * Every step should be commited in git.
   * Only the steps on this page are required. You can, but are not expected, to go through the other pages of the guide.
-4. BONUS : Once the guide is complete, you should have an article model, controller and views:
+4. Once the guide is complete, you should have an article model, controller and views:
   * 4.1 Add a Rating model and database migration with the following requirements:
     - Rating should have an attribute "score" (of the type of your choice).
     - One article can be associated to multiple ratings.
