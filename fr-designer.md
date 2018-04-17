@@ -21,7 +21,7 @@ Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo
 ## Exigences
 
 * Vous connaissez les bases de HTML, CSS, Javascript
-* Vous connaissez Oun ou plusieurs outils: Balsamiq, Sketch, Invision, Zeplin, Photoshop, etc.
+* Vous connaissez un ou plusieurs outils: Balsamiq, Sketch, Invision, Zeplin, Photoshop, etc.
 * Vous êtes sans concessions sur l'importance du design, du pixelperfect
 * Pour vous, le design est un art et une science pas du "coloriage"
 * Vous êtes motivé pour apprendre ce qu'il faut pour faire le travail
