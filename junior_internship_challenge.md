@@ -1,6 +1,6 @@
 # Junior Internship code and learning challenge
 
-1. Install RubyOnRails (preferably on a Linux or OSX environment, in a virtual machine if you wish, windows is also possible but harder). http://rubyonrails.org/
+1. Install RubyOnRails 2.4.2 (preferably on a Linux or OSX environment, in a virtual machine if you wish, windows is also possible but harder). http://rubyonrails.org/
 2. Install git and configure a gilab account. https://www.youtube.com/watch?v=7p0hrpNaJ14
 3. Follow the RubyOnRails getting started: http://guides.rubyonrails.org/getting_started.html
   * Every step should be commited in git.
