@@ -1,4 +1,4 @@
-# Développeur front-end
+# Stage Développeur front-end
 
 ## Nous sommes Packitoo
 
