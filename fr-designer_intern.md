@@ -9,7 +9,7 @@ Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo
 #COOL: Nous sommes une startup, chacun apporte sa contribution et nous allons conquérir le monde <br/>
 #CULTURE: Passion, Respect et Exploration <br/>
 #US: Nous sommes motivés comme jamais
-#YOU: nous avons besoin de vous pour y arriver ** nous avons besoin d'un web-desginer ** <br/>
+#YOU: nous avons besoin de toi pour y arriver ** nous avons besoin d'un web-desginer ** <br/>
 
 ## Le travail
 
@@ -30,7 +30,7 @@ startup en pleine croissance
 
 ## Compensations
 
-* Passer du temps pour apprendre tout ce dont vous avez besoin d'apprendre
+* Passer du temps pour apprendre tout ce dont tu as besoin d'apprendre
 * Tu es assuré(e) d'apprendre beaucoup
 * Pas de réunion, pas de présentation éternelle en powerpoint
 * De la flexibilité, selon qui tu es, ce que tu aimes, et ce que tu veux faire, tu
@@ -43,11 +43,8 @@ peux devenir ce que tu veux
 
 ## Points bonus
 
-* Vous connaissez ou voulez apprendre comment utiliser git, markdown et gitlab
-* Vous avez une culture startup
+* Tu connais ou veux apprendre comment utiliser git, markdown et gitlab
+* Tu as une culture startup
 * Montage vidéo
-* Avoir une connaissances de toutes les petites parties d'Internet (browsers, https, DNS, cdn, serveur dans le cloud, etc...)
+* Avoir une connaissances de toutes les petites parties d'Internet (browsers, https, cdn, serveur dans le cloud, etc.)
 
-## Evolutions
-
-* Nous soutenons activement le développement de nos équipes et sommes à 100% pour vous aider à évoluer, en senior web-designer, en front-end developper, en Product-Owner...
