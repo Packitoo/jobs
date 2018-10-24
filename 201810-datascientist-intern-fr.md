@@ -32,8 +32,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 
 ## Compensations
 
-* Passer du temps pour apprendre tout ce dont tu as besoin d'apprendre
-* Tu es assuré(e) d'apprendre beaucoup
+* Tu es assuré(e) d'apprendre beaucoup et de passer du temps pour apprendre tout ce dont tu as besoin d'apprendre
 * Pas de réunion, pas de présentation éternelle en powerpoint
 * De la flexibilité dans le scope du stage, selon qui tu es, ce que tu aimes et ce que tu veux faire
 * Télétravail occasionnel
@@ -42,6 +41,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 
 * Type de contrat : stage 4 à 6 mois
 * Basé à Pau (#gastronomie #ski-à-1h #océan-à-1h20)
+* Travailler au sein de la R&D (Raphaël, Gabriel, Tom, Arnaud), les sales/market (Thomas, Corinne, Guillaume, Adrien) et les opérations (Nath, Manon, Pauline)
 
 ## Points bonus
 
