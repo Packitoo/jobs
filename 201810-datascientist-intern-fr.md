@@ -41,7 +41,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 
 * Type de contrat : stage 4 à 6 mois
 * Basé à Pau (#gastronomie #ski-à-1h #océan-à-1h20)
-* Travailler au sein de la R&D (Raphaël, Gabriel, Tom, Arnaud), les sales/market (Thomas, Corinne, Guillaume, Adrien) et les opérations (Nath, Manon, Pauline)
+* Travail au sein de l'équipe R&D et avec les experts Packaging
 
 ## Points bonus
 
