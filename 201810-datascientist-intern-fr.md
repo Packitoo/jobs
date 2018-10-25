@@ -23,7 +23,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 ## Exigences
 
 * Tu as un goût prononcé pour l’analyse de donnée
-* Tu as ouverture d’esprit, de la curiosité, de la rigueur et un esprit de synthèse
+* Tu es ouvert d’esprit, curieux et rigoureux
 * Tu as envie de vivre l’aventure startup
 * Tu sais choisir tes outils et apprendre à utiliser de nouveaux outils
 * Tu maitrises à minima un langage de script et de requetes de base de données (exemple: R, Python, Sql, SAS...) et tu sais manipuler les donnés (types, listes, ordre...)
@@ -47,7 +47,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 
 * Tu as une culture startup (idée-prototype-test-recommencer)
 * Tu as une connaissance du monde des matériaux et/ou de l'emballage
-* Tu connais un terme francophone répandu pour dire "data scientist"
+* Tu peux proposer un terme francophone répandu pour dire "data scientist"
 * Tu utilises la ligne de commande, git et/ou aime scripter tes tâches
 * Tu apprécies les bouffes d'équipes ou les sorties
 
