@@ -2,10 +2,11 @@
 
 ## Nous sommes Packitoo (Pack-It-Too)
 
-Packitoo, c'est le premier outil de gestion en ligne des développements, achats et ventes de packaging (emballages) sur-mesure. Packitoo transforme la 8ème industrie mondiale
+Packitoo, c'est le premier outil de gestion en ligne des développements, achats et ventes de packaging (emballages) sur-mesure.
+Nous transformons la 8ème industrie mondiale avec la mise en oeuvre d'une IA pour la prédiction de couts, de prix et de faisabilités.
 Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo, le processus de développement packaging sort des pratiques offlines, longues, fastidieuses et coûteuses pour entrer dans un univers connecté et rationnalisé.
 
-Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définition de couts de prix et de faisabilités dans l'univers de l'emballage.
+Packitoo est aussi
 
 #WOW: Nous fabriquons une plate-forme pour l'industrie de l'emballage <br/>
 #COOL: Nous sommes une startup, chacun apporte sa contribution et nous allons conquérir le monde <br/>
@@ -27,7 +28,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 * Tu as envie de vivre l’aventure startup
 * Tu sais choisir tes outils et apprendre à utiliser de nouveaux outils
 * Tu maitrises à minima un langage de script et de requetes de base de données (exemple: R, Python, Sql, SAS...) et tu sais manipuler les donnés (types, listes, ordre...)
-* Tu as déjà essayé un ou plusieurs algorythme de prédiction (statistique ou non)
+* Tu as déjà essayé un ou plusieurs algorithme de prédiction (statistique ou non)
 * You need to read and write good english, everything is in english
 
 ## Compensations
@@ -42,6 +43,7 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 * Type de contrat : stage 4 à 6 mois
 * Basé à Pau (#gastronomie #ski-à-1h #océan-à-1h20)
 * Travail au sein de l'équipe R&D et avec les experts Packaging
+* Télétravail/remote possible
 
 ## Points bonus
 
