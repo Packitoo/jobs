@@ -10,8 +10,8 @@ Packitoo est aussi le premier outil a mettre en l'oeuvre l'IA pour la définitio
 #WOW: Nous fabriquons une plate-forme pour l'industrie de l'emballage <br/>
 #COOL: Nous sommes une startup, chacun apporte sa contribution et nous allons conquérir le monde <br/>
 #CULTURE: Passion, Respect et Exploration <br/>
-#US: Nous sommes motivés comme jamais
-#YOU: nous avons besoin de toi pour y arriver ** nous avons besoin d'un data-scientist ** <br/>
+#US: Nous sommes motivés comme jamais <br/>
+#YOU: nous avons besoin de toi pour y arriver **nous avons besoin d'un data-scientist** <br/>
 
 ## Le travail
 
