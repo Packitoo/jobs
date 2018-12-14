@@ -34,7 +34,7 @@ Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo
 ## Points bonus
 
 * Vous pouvez expliquer ce qui ne va pas avec wordpress et les CMS par rapport à une webapp
-* Vous avez une connaissance du cloud, continuious improvment/delivery
+* Vous avez une connaissance du cloud, continuous improvment/delivery
 * Vous avez une culture startup
 * Avoir une connaissances de toutes les petites parties d'Internet (dns, routing, https, websockets, serveur dans le cloud, etc...)
 
