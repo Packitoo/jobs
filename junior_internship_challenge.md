@@ -2,7 +2,7 @@
 
 1. Install RubyOnRails 2.4.2 (preferably on a Linux or OSX environment, in a virtual machine if you wish, windows is also possible but harder). http://rubyonrails.org/
 
-2. Install git and configure a gilab account. https://www.youtube.com/watch?v=7p0hrpNaJ14
+2. Install git and configure a gitlab account. https://www.youtube.com/watch?v=7p0hrpNaJ14
   * make sure your project is public so we can see your code.
 
 3. Follow the RubyOnRails getting started: http://guides.rubyonrails.org/getting_started.html
