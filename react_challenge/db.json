@@ -1,0 +1,22 @@
+{
+    "briefs": [
+        {
+            "id": 1,
+            "title": "Round box for wine",
+            "comment": "I need 1000 round boxes",
+            "productId": 3
+        },
+        {
+            "id": 2,
+            "title": "Beautiful bag Box",
+            "comment": "Beautiful bag Box with a cord",
+            "productId": 1
+        }
+    ],
+    "products": [
+      { "id": 1, "name": "Bag Box" },
+      { "id": 2, "name": "Oval Box" },
+      { "id": 3, "name": "Round Box" } ,
+      { "id": 4, "name": "Other Box" }
+    ]
+}
