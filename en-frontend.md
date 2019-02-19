@@ -12,7 +12,7 @@ Packitoo connects brands to manufacturers around the world. Thanks to Packitoo, 
 
 ## Job
 
-* Web Integration from UI screens with today's Front-End stacks (React, vuejs ...)
+* Web Integration from UI screens with today's Front-End stacks (React, Redux ...)
 * Teamwork, pair-programming, junior coaching, agile development
 * Post based in Pau or south west of France, progressive remote possible
 * You have full powers to redo everything in the Front-End
@@ -20,17 +20,18 @@ Packitoo connects brands to manufacturers around the world. Thanks to Packitoo, 
 
 ## Requirements
 
-* Solid experience with React or Vue and responsive design
-* You are familiar with: Git, Markdown, Html, Css, API Rest, MVC, design patterns, micro-services, flexbox
+* Experience with React, Redux and Material-UI
+* You are familiar with: Git, Markdown, Html, Css, API Rest, MVC, design patterns, micro-services
 * You know a little Photoshop / Illustrator / Sketch and you are able to extrapolate screens from the main screens (but UI / UX / Web Designer is a separate post)
 * You are motivated to learn what it takes to get the job done
 
 ## Points bonus
 
-* You speak French
+* You can speak some French
 * You can explain what's wrong with Javascript (and you're happy to work with it anyway)
 * You have a startup culture
 * Have knowledge of all the small parts of the Internet (protocols, network, websockets, cloud, databases, etc.)
+* Have a mobile dev experience with React-native
 
 ## Evolutions
 
