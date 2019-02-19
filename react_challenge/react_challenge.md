@@ -56,6 +56,9 @@ First create the project structure. For this you should use create-react-app. (h
 
 Next you will have to install all other necessary tools : Redux / React-redux / Redux-Thunk (You can install Redux-dev-tools for debugging)
 
+You can use this tutorial for level 0 and level 1 : 
+https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
+
 You will also have to install a fake REST Api (https://github.com/typicode/json-server).
 
 A db.json file is already present in this folder and you must use it.
@@ -73,7 +76,7 @@ To do all your request you can use whatever you want (fetch/axios...)
 
 Now that you have installed all libraries, we need to setup them.
 
-Setup redux, react-redux and redux-thunk. You must use the feature based example as reference https://github.com/ryanlanciaux/react_feature_folder_example
+Setup redux, react-redux and redux-thunk. You can use the feature based example as reference https://github.com/ryanlanciaux/react_feature_folder_example
 
 For this setup you should create store / reducer / actions create / actions type, you don't need to create spec.js files.
 
