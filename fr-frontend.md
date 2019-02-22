@@ -2,35 +2,43 @@
 
 ## Nous sommes Packitoo (Pack-It-Too)
 
-Packitoo: premier outil de gestion en ligne des développements, achats et ventes de l'emballages sur-mesure.
-Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo, le processus de développement packaging sort des pratiques offlines, longues, fastidieuses et coûteuses pour entrer dans un univers connecté et rationnalisé.
+Packitoo: premier outil de mise en relation et gestion en ligne des développements, achats et ventes de l'emballages sur-mesure.Packitoo connecte les marques aux fabricants du monde entier. Grâce à Packitoo, le processus de développement packaging sort des pratiques offlines, longues, fastidieuses et coûteuses pour entrer dans un univers connecté et rationalisé.
 
-* #WOW: Nous fabriquons la première plate-forme pour l'industrie de l'emballage
-* #OMG: Nous sommes une startup, tout le monde prend le "lead", le potentiel est énorme et nous allons conquérir le monde
-* #CULTURE: Passion, Respect et Exploration
-* #YOU: nous avons besoin de vous pour y arriver ** nous avons besoin d'un développeur Front-End **
+* PASSION: Nous sommes passionnés par ce que nous faisons, cela a un impact et peut profondément changer ce business
+* RESPECT: Nous sommes tous différents, avec des expériences, des forces et des faiblesses différentes et chacun a droit au respect
+* EXPLORATION: Nous sommes en territoire inexplorés, mettre en relation marques et fabricants en ligne est un travail complexe qui jamais été fait avant Packitoo.
 
-## Le travail
+## Le job
 
-* A partir d'écrans UI vous faite l'intégration web les stacks Front-End d'aujourd'hui (React, vuejs...)
-* Travail en équipe, pair-programming, coaching des juniors, agile development
-* Poste basé à Pau ou à Bergerac, remote/télétravail progressif
+* A partir d'écrans UI et des stories vous faite l'intégration web les stacks Front-End d'aujourd'hui (React, Redux...)
+* Travail en équipe, pair-programming, coaching des juniors, développement agile
 * Vous avez carte blanche pour tout refaire dans les règles de l'art sur le Front
-* Passer du temps pour apprendre tout ce dont vous avez besoin d'apprendre
+* Passer du temps pour apprendre tout ce dont vous avez besoin
 
 ## Exigences
 
-* Solide expérience avec React ou Vue et responsive design
-* Vous êtes familier avec : Git, Markdown, Html, Css, Rest API, MVC, design patterns, micro-services, flexbox
-* Vous connaissez un peu Photoshop/Illustrator/Sketch et vous êtes capable d'extrapoler des écrans à partir des principaux écrans (mais UI/UX/Web Designer est un poste à part)
-* Vous êtes motivé pour apprendre ce qu'il faut pour faire le travail
-* Everything is in english these days, you need to understand and write it very well
+* Solide expérience avec React et Redux
+* Vous êtes familier ou intéressé par : Material-UI (material design), Oauth2, Git, Markdown, Html, Css,  API (rest...), MVC, design patterns, micro-services, intégration et déploiement continu, cloud, kubernetes, docker, postgreSQL et les technos backend (on utilise Ruby On Rails aujourd'hui) et React-Native
+* Vous êtes un passionné et "étudiant" éternel, sans cesse en train d'apprendre et de découvrir de nouvelle technos
+* Everything is in english these days, you need to understand and write it very well and we have some foreign colleagues
 
 ## Points bonus
 
-* Vous pouvez expliquer ce qui ne va pas avec Javascript (et vous êtes heureux de travailler avec quand même)
-* Vous avez une culture startup
+* Vous avez une expérience de startup
 * Avoir une connaissances de toutes les petites parties d'Internet (protocoles, reseau, websockets, cloud, databases, etc.)
+* Vous avez fait un peu de machine learning (regression, prédiction, classification, économétrie)
+
+## Compensations
+
+* Pas de réunion, pas de présentation éternelle en powerpoint (on fait des stand-up le matin et on chat avec discord)
+* De la flexibilité dans le scope du poste (si tu veux faire plus de fullstack, plus d'infra, plus de design...)
+* Soirée jeux, bouffes et sorties d'équipe
+
+## Lieu et détails
+
+* Basé à Pau ( #gastronomie #ski-à-1h #océan-à-1h20 )
+* Travail au sein de l'équipe R&D (4 pers) et avec les experts Packaging
+* Télétravail/remote possible
 
 ## Evolutions
 
