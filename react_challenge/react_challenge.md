@@ -76,9 +76,9 @@ To do all your request you can use whatever you want (fetch/axios...)
 
 Now that you have installed all libraries, we need to setup them.
 
-Setup redux, react-redux and redux-thunk. You can use the feature based example as reference https://github.com/ryanlanciaux/react_feature_folder_example
+Setup redux, react-redux and redux-thunk. You can use this tutorial https://medium.com/backticks-tildes/setting-up-a-redux-project-with-create-react-app-e363ab2329b8
 
-For this setup you should create store / reducer / actions create / actions type, you don't need to create spec.js files.
+For this setup you should create store / reducers / actions / actions type.
 
 This architecture is called flux and works like this :
 
