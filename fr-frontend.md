@@ -1,4 +1,4 @@
-# Développeur Front-End
+# Développeur Front-End REACT REDUX
 
 ## Nous sommes Packitoo (Pack-It-Too)
 

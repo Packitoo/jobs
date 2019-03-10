@@ -5,10 +5,9 @@
 Packitoo is the first platform for sourcing and selling packaging projects.
 Packitoo connects brands to manufacturers around the world. Thanks to Packitoo, the packaging development process comes out of offlines, long, tedious and expensive practices to enter a connected and rationalized world.
 
-* #WOW: We are making the first platform for the packaging industry
-* #OMG: We are a startup, everyone takes the lead, the potential is huge and we will conquer the world
-* #CULTURE: Passion, Respect and Exploration
-* #YOU: we need you to reach the goal ** we need a Front-End developer **
+* PASSION: We are passionnate about what we do, as we have an impact and the opportunity to make a deep change in the industry
+* RESPECT: We are all different, with different set of skills, stength and weaknessess and that's ok
+* EXPLORATION: We are sailing uncharted waters were no other business has been before, Packging is a complex industry and we have the mix of tech and packaging to get it to work
 
 ## Job
 
@@ -21,17 +20,28 @@ Packitoo connects brands to manufacturers around the world. Thanks to Packitoo, 
 ## Requirements
 
 * Experience with React, Redux and Material-UI
-* You are familiar with: Git, Markdown, Html, Css, API Rest, MVC, design patterns, micro-services
-* You know a little Photoshop / Illustrator / Sketch and you are able to extrapolate screens from the main screens (but UI / UX / Web Designer is a separate post)
+* You are familiar with: Material-UI (material design), Oauth2, Git, Markdown, Html, Css,  API (rest...), MVC, design patterns, micro-services, continuous integration and deployments, cloud, kubernetes, docker, postgreSQL and backend techs (we use Ruby On Rails today) and React-Native
 * You are motivated to learn what it takes to get the job done
+* You are an eternal learner, always passionately discovering and teaching yourself new technologies
 
 ## Points bonus
 
 * You can speak some French
-* You can explain what's wrong with Javascript (and you're happy to work with it anyway)
 * You have a startup culture
 * Have knowledge of all the small parts of the Internet (protocols, network, websockets, cloud, databases, etc.)
 * Have a mobile dev experience with React-native
+
+## Compensations
+
+* No death-by-powerpoint meeting, we use chats like discord
+* Flexibility in your position (if you want to become fullstack, work on the cloud infrastructure, design...)
+* Game night, Diner and team sport outings
+
+## Location
+
+* Based in Pau ( #gastronomie #ski-1h #ocean-1h20 )
+* Work in the R&D team (4 pers)and Packaging experts
+* remote possible
 
 ## Evolutions
 
