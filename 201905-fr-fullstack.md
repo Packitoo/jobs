@@ -47,6 +47,8 @@ Ensemble, transformons la 8eme industrie mondiale.
 
 * Nous soutenons activement le développement de nos équipes. Avec passion et application, vous décidez vous mêmes d'évoluer dans le poste que vous voulez : web-designer, front-end legend, en fullstack, machine-learning, dev mobile, lead dev...
 
+*Envoyez votre CV à jobs@packitoo.com*
+
 `</ Job>`
 
 
