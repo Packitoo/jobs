@@ -189,3 +189,7 @@ You can implement this functionality using Reselect https://github.com/reduxjs/r
 #### Bonus #4. Filter brief in BriefList by product
 
 For this bonus, the goal is to add a select input in BriefList where you can select a product and then it will filter brief by the selected product. The best way to do this is to use reselect library form previous bonus.
+
+### Bonus #5. Typescript
+
+Bonus points will be awarded for this project if done in typescript
