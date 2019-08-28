@@ -18,6 +18,7 @@ https://redux.js.org/api/applymiddleware#example-using-thunk-middleware-for-asyn
 - Redux-Form (form validation using redux) https://github.com/erikras/redux-form
 - Reselect (Export logic from view into selector) https://github.com/reduxjs/reselect
  https://redux.js.org/recipes/computingderiveddata
+ - Bonus : Typescript https://create-react-app.dev/docs/adding-typescript
 
 The folder structure we are using is a feature-based structure. You can find an example here https://github.com/ryanlanciaux/react_feature_folder_example
 
