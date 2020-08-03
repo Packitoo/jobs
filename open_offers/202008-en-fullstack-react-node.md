@@ -1,6 +1,6 @@
 # We are Packitoo (Pack-It-Too)
 
-At Packitoo, we made the first instant pricing engine or the packaging industry "HIPE", this is real game changer in an industry where sales cycles can take weeks. We have big projects, tons of new features to make on a high quality react app, with a node backend and a python microservice for price prediction.
+At Packitoo, we made the first instant pricing engine or the packaging industry "HIPE" (https://hipe.packitoo.com/), this is real game changer in an industry where sales cycles can take weeks. We have big projects, tons of new features to make on a high quality react app, with a node backend and a python microservice for price prediction.
 We are animated by the following values:
 
 * PASSION: We like what we do, it drives us to make an awesome app
@@ -55,7 +55,8 @@ export const SeniorReactNodeDeveloper: Job = {
             "CEO-SALES-PO": 1,
             "CUST_PROJ_MANAGERS": 2
         },
-        "website": "https://www.packitoo.com/hipe",
+        "softwareWebsite": "https://hipe.packitoo.com/",
+        "serviceWebsite": "https://www.packitoo.com/",
     },
     technologies: [Typescript, React, Redux, Nodejs, ReduxSaga, ReduxToolkit, ReactTestingLibrarie, Jest, ReactMaterialUI, Reselect, Immer, Formik, Nestjs, Postgres, TypeOrm, Cypress, MaterialUI],
     moreTechs: [Python, Flask, DockerSwarm]
