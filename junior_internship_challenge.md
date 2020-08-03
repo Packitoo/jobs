@@ -1,4 +1,4 @@
-# DEVELOPER Internship code and learning challenge:
+# JUNIOR DEVELOPER code and learning challenge:
 
 1. Install RubyOnRails 2.4.2 (preferably on a Linux or OSX environment, in a virtual machine if you wish, windows is also possible but harder). http://rubyonrails.org/
 

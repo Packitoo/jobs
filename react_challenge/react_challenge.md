@@ -18,6 +18,7 @@ https://redux.js.org/api/applymiddleware#example-using-thunk-middleware-for-asyn
 - Redux-Form (form validation using redux) https://github.com/erikras/redux-form
 - Reselect (Export logic from view into selector) https://github.com/reduxjs/reselect
  https://redux.js.org/recipes/computingderiveddata
+ - Bonus : Typescript https://create-react-app.dev/docs/adding-typescript
 
 The folder structure we are using is a feature-based structure. You can find an example here https://github.com/ryanlanciaux/react_feature_folder_example
 
@@ -189,3 +190,7 @@ You can implement this functionality using Reselect https://github.com/reduxjs/r
 #### Bonus #4. Filter brief in BriefList by product
 
 For this bonus, the goal is to add a select input in BriefList where you can select a product and then it will filter brief by the selected product. The best way to do this is to use reselect library form previous bonus.
+
+### Bonus #5. Typescript
+
+Bonus points will be awarded for this project if done in typescript
