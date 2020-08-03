@@ -10,28 +10,28 @@ We are animated by the following values:
 
 # The job
 
-    From the stories described in our backlog, you are autonomous to make  front/back functionnalities.
-    We work currently in 3 weeks sprints, we do retrospectives, we have been using  sprint velocity for quite for while with success. You like making quality  code, request and make code reviews.
-    We do morning stand up with all the team, the fewest meeting possible, leaving people have focus hours in the morning.
-    Bonus points if you like working in team, pair programming, coaching juniors
+* From the stories described in our backlog, you are autonomous to make  front/back functionnalities.
+* We work currently in 3 weeks sprints, we do retrospectives, we have been using  sprint velocity for quite for while with success. You like making quality  code, request and make code reviews.
+* We do morning stand up with all the team, the fewest meeting possible, leaving people have focus hours in the morning.
+* Bonus points if you like working in team, pair programming, coaching juniors
 
 # Requirements
 
-    2 years with React and Redux, Nodejs.
-    You like Typescript and are willing to take a look at other parts of the stack if necessary (gitlab-ci, docker-swarm), you like or are interested in Material-UI, design patterns, micro-services, CI/CD, you are an eternal student.
-    Most of the team is French speakers but we write everything in English as have some colleagues from eastern europe.
+* 2 years with React and Redux, Nodejs.
+* You like Typescript and are willing to take a look at other parts of the stack if necessary (gitlab-ci, docker-swarm), you like or are interested in Material-UI, design patterns, micro-services, CI/CD, you are an eternal student.
+* Most of the team is French speakers but we write everything in English as have some colleagues from eastern europe.
 
 # Points bonus
 
-    You have worked in a startup
-    You are passionate about computer, know all the little parts that make Internet
-    You have experience in Python (Flask) or Ruby (Rails)
+* You have worked in a startup
+* You are passionate about computer, know all the little parts that make Internet
+* You have experience in Python (Flask) or Ruby (Rails)
 
 # Location and details
 
-    R&D Team is remote since the beginning (Pau, Bordeaux, Bergerac, Castelnaudary)
-    We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins)
-    You will have to live in reasonnable distance from Pau to come over once a month for 3-4 days (so it's about 80% of the time remote)
+* R&D Team is remote since the beginning (Pau, Bordeaux, Bergerac, Castelnaudary)
+* We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins)
+* You will have to live in reasonnable distance from Pau to come over once a month for 3-4 days (so it's about 80% of the time remote)
 
 Please send us an email at jobs@packitoo.com
 
