@@ -84,7 +84,7 @@ class SeniorPythonDevop:
             'serviceWebsite': 'https://www.packitoo.com/',
             'tech_stack': 'https://stackshare.io/packitoo/hipe/main'
         }
-        current_technologies: [Flask, Shell, Make, DockerSwarm, Alpine, Ubuntu, Nginx, Pip, Virtualenv, PostgreSQL, API, gitlab-CI]
+        current_technologies: [Flask, Shell, Make, DockerSwarm, Ubuntu, Nginx, Pip, Virtualenv, PostgreSQL, API, gitlab-CI]
         other_technologies: [nodejs, typescript, react, redux, redux-saga, material-ui, DataFrames, Scikit, OpenAPI, ssh, tmux]
         remote = True
         startup = True
