@@ -31,7 +31,7 @@ We are looking for a **senior python developer with devops responsabilities**
 * Willingness to pickup basic knowledge of a new tech  for testing, CI/CD 
 * You are an eternal student
 
-# Points bonus
+# Bonus points
 
 * You have worked in a startup, like working in teams, pair programming, coaching juniors
 * You are passionate about softwares, computers, technology and know all the little parts that make Internet
