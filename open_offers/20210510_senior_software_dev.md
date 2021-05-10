@@ -10,7 +10,7 @@ We are animated by the following values:
 
 # The job
 
-We are looking for a **senior web developer**
+We are looking for a **senior software developer**
 
 * Mainly **python** development but not exclusively
 * Including handling the devops for his/her work
@@ -64,7 +64,7 @@ Please send us an email at jobs@packitoo.com
 ```python
 from datetime import timedelta, time, date
 
-class SeniorWebDeveloper:
+class SeniorSoftwareDeveloper:
     def __init__(self, candidate):
         position: 'Python Devops'
         company:{
