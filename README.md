@@ -1,6 +1,6 @@
 # jobs
 
-jobs descriptions repo, if you see one you like, please email us at jobs@packitoo.com
+jobs descriptions repo, if you see one you like in 'open_offers', please email us at jobs@packitoo.com
 
 ## Process
 

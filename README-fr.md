@@ -1,6 +1,6 @@
 # jobs
 
-si tu vois une offre qui te plait, écris-nous à jobs@packitoo.com
+si tu vois une offre qui te plait dans 'open_offers', écris-nous à jobs@packitoo.com
 
 ## Processus
 
