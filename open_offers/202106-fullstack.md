@@ -33,7 +33,7 @@ We are animated by the following values:
 # Location and details
 
 * R&D Team is remote since the beginning (Pau, Bordeaux, Bergerac, Castelnaudary)
-* We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins)
+* We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins) (commuting and hotel expenses are covered Packitoo)
 * You will have to live in reasonable distance from Pau to come over once a month for 3-4 days (so it's about 80% of the time remote)
 
 Please send us an email at jobs@packitoo.com
