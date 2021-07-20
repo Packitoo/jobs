@@ -19,22 +19,24 @@ We are animated by the following values:
 # Requirements
 
 * 2 years with multiple fullstack frameworks, preferably React and Redux, Nodejs.
-* You like Typescript and are willing to take a look at other parts of the stack if necessary (gitlab-ci, docker-swarm), you like or are interested in Material-UI, design patterns, micro-services, CI/CD, you are an eternal student.
-* Good communications skills, able to articulate and share you ideas efficiently
-* Most of the team is French speakers but we write everything in English as have some colleagues from eastern europe.
+* Good software skills (types, generics, inheritance, memory management, auth tokens, ACL, design patterns)
+* You like Typescript and are willing to take a look at other parts of the stack if necessary (gitlab-ci, docker-swarm), you like or are interested in Material-UI,  micro-services, CI/CD, you are an eternal student.
+* Good communications skills, able to articulate and share you ideas efficiently (you are able to do in depth solutions comparison between multiple options and share your ideas)
+* Most of the team is French speakers but we write everything in English
 * 80% of the time remote, 20% on site (~1 a month for 3 or 4 days)
 
 # Points bonus
 
 * You have worked in a startup
 * You are passionate about computer, know all the little parts that make Internet
-* You have experience in Typescript, typeorm, Python (Flask) or Ruby (Rails) or even in Magento
+* You have experience in Typescript, typeorm, Python (Flask) or Ruby (Rails)
 
 # Location and details
 
-* R&D Team is remote since the beginning (Pau, Bordeaux, Bergerac, Castelnaudary)
-* We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins) (commuting and hotel expenses are covered Packitoo)
+* R&D Team is remote since the beginning (Pau, Bordeaux, Bergerac, Castelnaudary, Guéret)
+* We meet once a month at the office in Pau (#gastronomie #ski-slopes-in-60mins #ocean-in-80mins) (commuting and hotel expenses are covered by Packitoo)
 * You will have to live in reasonable distance from Pau to come over once a month for 3-4 days (so it's about 80% of the time remote)
+* We can sponsor a visa if you need to come to France (Our Ukrainian colleague just arrived)
 
 Please send us an email at jobs@packitoo.com
 
