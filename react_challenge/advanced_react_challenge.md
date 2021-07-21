@@ -98,7 +98,7 @@ Title and Comment are simple text input and the value of these inputs are stocke
 
 For the product id, what you need to do is to fetch products data from json-server fake api and stock them in the store.
 
-For this you should : 
+For this you should :
 - Create an action who is responsible of fetching products data, this action will be called in ComponentDidMount lifecycle method of the BriefForm component (https://reactjs.org/docs/react-component.html) and your component should be connected to redux by connect method from react-redux to work.
 - The action will dispatch a type of action with product data in the payload to the reducer and the reducer will stock it in store
 - The component will be connected by connect method from react-redux and products data would be available in props (Use mapStateToProps to do this)
@@ -199,3 +199,6 @@ We didn't talk about the style of the app because it's not the main goal of this
 
 But if you want to, you can design your app using Material-UI library. https://material-ui.com/
 
+#### Bonus 3. Cypress tests
+
+An very important part of what we do is testing, we use cypress.io to make tests, you can add a test with this
