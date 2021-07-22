@@ -54,7 +54,7 @@ export const SeniorReactNodeDeveloper: Job = {
         "members": {
             "PO": 1,
             "UX": 1,
-            "DEV (inc CTO)": 2,
+            "DEV (inc CTO)": 4,
             "GROWTH (CMO)": 1,
             "SALES (COO)": 1,
             "CEO-SALES-PO": 1,
