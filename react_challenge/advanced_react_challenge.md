@@ -199,6 +199,6 @@ We didn't talk about the style of the app because it's not the main goal of this
 
 But if you want to, you can design your app using Material-UI library. https://material-ui.com/
 
-#### Bonus 3. Cypress tests
+#### Bonus 3. Tests
 
-An very important part of what we do is testing, we use cypress.io to make tests, you can add a test with this
+An very important part of what we do is testing, so please add some relevant tests to what you've done.
