@@ -12,7 +12,6 @@ For this challenge the stack is composed of the following libraries :
 - Material-ui https://material-ui.com/
 - Redux https://redux.js.org/
 - React-redux https://github.com/reduxjs/react-redux / https://react-redux.js.org/introduction/quick-start
-- Redux-Persist https://github.com/rt2zz/redux-persist
 - Redux-dev-tools https://github.com/zalmoxisus/redux-devtools-extension
 - Redux-saga https://redux-saga.js.org/ (or Redux-Thunk)
 - Formik https://formik.org/
@@ -26,6 +25,8 @@ All these libraries must be installed using **yarn**
 **Important**
 
 In order for us to verify your progress, you'll need to have at least one commit for each level. You can host your repository publicly on your Github/Gitlab profile, or send us a copy of the entire folder (including the .git folder).
+
+Feel free to use functional component with hooks when mention differently.
 
 ## Let's go!
 
@@ -71,13 +72,9 @@ To do all your request you can use whatever you want (fetch/axios...)
 
 Now that you have installed all libraries, we need to setup them.
 
-Setup redux, react-redux and redux-saga.
+Setup redux, react-redux and redux-saga. Feel free tu use redux toolkit.
 
 For this setup you should create store / reducers / actions / actions type.
-
-This architecture is called flux and works like this :
-
-# <img height="150" src="https://facebook.github.io/flux/img/flux-simple-f8-diagram-with-client-action-1300w.png" alt="flux-architecture" />
 
 If you have any doubt on what's a store or a reducer or flux, you should read redux docs or find your answer on the internet.
 
@@ -87,7 +84,7 @@ If you have any doubt on what's a store or a reducer or flux, you should read re
 
 ### Level #2 - Start brief creation form
 
-Everything is setup, now we can start coding our first component of the page : the brief creation form.
+Everything is setup, now we can start coding our first component of the page : the brief creation form using Formik.
 
 The brief form will have 3 fields :
  - Title (String)
@@ -110,6 +107,7 @@ At the end of this level you should have a form with 2 text inputs and 1 select 
 > **Level #2 - Checklist**
 >
 > - [ ] Create BriefForm.js
+> - [ ] Use Formik
 > - [ ] Fetch products from json-server fake api and stock fetched products in the store (use connect of react-redux)
 > - [ ] Get products data from props (use connect of react-redux)
 > - [ ] Create a form div with 3 inputs inside (title, comment and products)
