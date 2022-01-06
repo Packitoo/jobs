@@ -34,7 +34,7 @@ We are going to build one page with two components.
 
 One component for the creation of a brief/summary of a packaging to build and one for list all these summaries.
 
-These 2 components should be independant in the page. And at the end your main App.js should look like this :
+These 2 components should be independent in the page. And at the end your main App.js should look like this :
 
 ```javascript
   return (
@@ -84,23 +84,23 @@ If you have any doubt on what's a store or a reducer or flux, you should read re
 
 ### Level #2 - Start brief creation form
 
-Everything is setup, now we can start coding our first component of the page : the brief creation form using Formik.
+Everything has been set up, so now you can start coding our first component of the page : the brief creation form using Formik.
 
 The brief form will have 3 fields :
  - Title (String)
  - Comment (Text)
  - ProductId (Relation Id)
 
-Title and Comment are simple text input and the value of these inputs are stocked in the state of the component
+Title and Comment are simple text inputs and the values of those inputs are stocked in the state of the component.
 
-For the product id, what you need to do is to fetch products data from json-server fake api and stock them in the store.
+For the product Id, what you need to do is to fetch products data from json-server fake api and stock them in the store.
 
 For this you should :
 - Create an action who is responsible of fetching products data, this action will be called in ComponentDidMount lifecycle method of the BriefForm component (https://reactjs.org/docs/react-component.html) and your component should be connected to redux by connect method from react-redux to work.
 - The action will dispatch a type of action with product data in the payload to the reducer and the reducer will stock it in store
 - The component will be connected by connect method from react-redux and products data would be available in props (Use mapStateToProps to do this)
 - Get products data from props and create a Select input to select a product for the brief creation
-- Selected product will be store in the state of the component like text and comment
+- Selected product will be stored in the state of the component like text and comment
 
 At the end of this level you should have a form with 2 text inputs and 1 select input. All the data of these inputs should store their values in the component state.
 
@@ -118,7 +118,7 @@ At the end of this level you should have a form with 2 text inputs and 1 select 
 
 ### Level #3 - Create a brief
 
-Now that we have a beautiful form who collect data, the last step is to send this data to the server for create a brief.
+Now that we have a beautiful form which collects data, the last step is to send this data to the server to create a brief.
 
 To do this, like previous step we will use an action. The action will send data to the fake json rest api. (POST request)
 On the response, the server will return the brief created, the action should dispatch this data and store it in briefs data of the store.
